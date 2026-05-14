@@ -48,7 +48,7 @@
 
 
   <div align="center">
-    <h2> ʚ⊹₊˚‧︵‿ 𝙏𝙃𝘼𝙉𝙆 𝙔𝙊𝙐 𝙁𝙊𝙍 𝙍𝙀𝘼𝘿𝙄𝙉𝙂 𝙏𝙃𝙄𝙎 𝙏𝙊 𝙆𝙉𝙊𝙒 𝙈𝙊𝙍𝙀 𝘼𝘽𝙊𝙐𝙏 𝙈𝙀  ‎‿︵‧˚₊⊹ɞ </h2>  
+    <h2> ʚ⊹₊˚‧︵‿ 𝙏𝙃𝘼𝙉𝙆 𝙔𝙊𝙐 𝙁𝙊𝙍 𝙍𝙀𝘼𝘿𝙄𝙉𝙂 𝙏𝙃𝙄𝙎:3 ‎‿︵‧˚₊⊹ɞ </h2>  
     <img width="66,7" height="50,0" alt="0" src="https://github.com/user-attachments/assets/ee5fd6cf-5623-4d27-8f93-6d789e4b6c18" /><img width="41,6" height="37,6" alt="0" src="https://github.com/user-attachments/assets/31129188-eb78-429d-9175-03e1a2a3e16c" /><img width="66,7" height="50,0" alt="0" src="https://github.com/user-attachments/assets/ee5fd6cf-5623-4d27-8f93-6d789e4b6c18" />
     <img width="1978" height="258" alt="0" src="https://github.com/user-attachments/assets/8209264c-c38c-426a-a50d-9f70726dedfd" />
   </div>
