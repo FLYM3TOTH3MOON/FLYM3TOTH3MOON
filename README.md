@@ -27,7 +27,7 @@
     <tr>
       <td> ⟢ You can call me Kohi/Deaf <br> ⟢ They/them • ENFP • Pan <br> ⟢ I'm a multiple shippers/fandoms <br> ⟢ Main fandoms: BSD, CRK/OB, MLP, ALNST, Kuroshitsuji,etc. <br> ⟢ I love true crimes, psychology, drawings, <del> my octp, my octp, my octp </del> <br> ⟢ Oh did I mention that I love my octp? </td>
       <td>
-       <br> ⟢ Any kind of interaction is <br> okay:D unless I have DNI status <br>  ⟢ C+H is highly encourage <br> so feel free to do it with me <br>  ⟢ I afk/offtab most of the time <br> so if I don't respond immediately <br> w2i with me.ᐟ <br> ⟢ I may be a little weird or stupid <br> at time, so plz bare with me <br> ⟢ I'd love to talk w someone <br> who shares the same interest w me <br> <br>
+       <br> ⟢ Any kind of interaction is <br> okay:D unless I have DNI status <br>  ⟢ C+H is highly encourage <br> so feel free to do it with me <br>  ⟢ I afk/offtab most of the time <br> so if I don't respond immediately <br> w2i with me.ᐟ <br> ⟢ I may be a little weird or stupid <br> at time, so plz bare with me <br> ⟢ I'd love to talk w someone who shares the same interest w me <br> ⟢ <strong> DO NOT COPY my skins </strong>, I put many effort into it. Close friends may ask for inspriration <br> <br>
       </td>
       <td> 
         ⟢ Disrespect others' boundaries <br>
@@ -35,6 +35,7 @@
         ⟢ Trauma = cool <br>
         ⟢ Racist, Sexist <br>
         ⟢ Loli/shotacon
+        ⟢ Copycat
       </td>
       <td>
         ⟢ Sign my <a href="https://bdf647.atabook.org/" target=_blank> 新book </a> <br> 
