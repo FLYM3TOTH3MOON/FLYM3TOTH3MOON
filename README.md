@@ -11,7 +11,7 @@
 
   <h2> ʚ⊹₊˚‧︵‿ 𝙃𝘼𝙒𝙒𝙊𝙊𝙊𝙊 ₍ ՞ ˶ᵔ ᵕ ᵔ˶ ՞ ₎ 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 𝙈𝙔 𝙋𝘼𝙂𝙀.ᐟ.ᐟ   ‎‿︵‧˚₊⊹ɞ </h2>  
   <div align="center"> ʚ⊹₊˚‧︵‿₊୨ -`♡´- ୧₊‿︵‧˚₊⊹ɞ
-  <div align="center"> <img width="400" height="250" alt="0" title="My Octp:3 This was made with POCAMATE" src="https://github.com/user-attachments/assets/ede7be5c-f268-4607-8d80-1d50c45dedca" />  <img width="400" height="250" alt="0" title="My Octp:3 This was made with POCAMATE" src="https://github.com/user-attachments/assets/dbcea0cc-052d-41f1-aa82-2dc234dd95d4" />
+  <div align="center"> <img width="300" height="187,5" alt="0" title="My Octp:3 This was made with POCAMATE" src="https://github.com/user-attachments/assets/ede7be5c-f268-4607-8d80-1d50c45dedca" />  <img width="300" height="187,5" alt="0" title="My Octp:3 This was made with POCAMATE" src="https://github.com/user-attachments/assets/dbcea0cc-052d-41f1-aa82-2dc234dd95d4" />
 
    <div align="center">  ʚ⊹₊˚‧︵‿₊୨ -`♡´- ୧₊‿︵‧˚₊⊹ɞ
   <br>
@@ -26,16 +26,15 @@
     </tr>
     <tr>
       <td> ⟢ You can call me Kohi/Deaf <br> ⟢ They/them • ENFP • Pan <br> ⟢ I'm a multiple shippers/fandoms <br> ⟢ Main fandoms: BSD, CRK/OB, MLP, ALNST, Kuroshitsuji,etc. <br> ⟢ I love true crimes, psychology, drawings, <del> my octp, my octp, my octp </del> <br> ⟢ Oh did I mention that I love my octp? </td>
-      <td>
-       <br> ⟢ Any kind of interaction is <br> okay:D unless I have DNI status <br>  ⟢ C+H is highly encourage <br> so feel free to do it with me <br>  ⟢ I afk/offtab most of the time so if I don't respond immediately, w2i with me.ᐟ <br> ⟢ I may be a little weird or stupid <br> at time, so plz bare with me <br> ⟢ I'd love to talk w someone who shares the same interest w me <br> ⟢ <strong> DO NOT COPY my skins </strong>, I put many effort into it. Close friends may ask for inspriration <br> <br>
-      </td>
+      <td> <br> ⟢ Any kind of interaction is okay:D unless I have DNI status <br> ⟢ C+H is highly encourage so feel free to do it with me <br> ⟢ I afk/offtab most of the time so if I don't respond immediately, w2i with me.ᐟ <br> ⟢ I may be a little weird or stupid <br> at time, so plz bare with me <br> ⟢ I'd love to talk w someone who shares the same interest w me <br> ⟢ <strong> DO NOT COPY my skins </strong>, I put many effort into it. Close friends may ask for inspriration <br> <br> </td>
       <td> 
         ⟢ Disrespect others' boundaries <br>
         ⟢ Offense others and then says "It's just a joke/prank" <br>
         ⟢ Trauma = cool <br>
         ⟢ Racist, Sexist <br>
         ⟢ Loli/shotacon <br>
-        ⟢ Copy others' skins and claim it's yours
+        ⟢ Copy others' skins and claim it's yours <br>
+        ⟢ Asuming everyone is gay/lesbian
       </td>
       <td>
         ⟢ Sign my <a href="https://bdf647.atabook.org/" target=_blank> 新book </a> <br> 
