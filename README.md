@@ -17,12 +17,12 @@
   <br>
   <h3> ʚ⊹₊˚‧︵‿ ꒰ ⁠՞ ⑅⁠ᵕ⁠༚⁠ᵕ ⁠՞ ꒱⁠˖⁠♡ 𝙃𝙀𝙍𝙀 𝘼𝙍𝙀 𝙎𝙊𝙈𝙀 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉 𝘼𝘽𝙊𝙐𝙏 𝙈𝙀 :3 ‎‿︵‧˚₊⊹ɞ </h4>
   <div align="center">  ʚ⊹₊˚‧︵‿₊୨ -`♡´- ୧₊‿︵‧˚₊⊹ɞ
-  <table width=2000 align="center" > 
+  <table width=4000 align="center" > 
     <tr>
-      <th width= 500>  <h4> <img width="20" height="20" alt="0" src="https://github.com/user-attachments/assets/0098f85d-7869-48ea-ba80-7977d1516e5b" />ʚ⊹₊ 𝐌𝐄 ₊⊹ɞ <img width="20" height="20" alt="0" src="https://github.com/user-attachments/assets/0098f85d-7869-48ea-ba80-7977d1516e5b" /> </h4> </th>
-       <th width= 500>  <h4> <img width="20" height="20" alt="0" src="https://github.com/user-attachments/assets/0098f85d-7869-48ea-ba80-7977d1516e5b" />ʚ⊹₊ 𝐁𝐘𝐈 ₊⊹ɞ <img width="20" height="20" alt="0" src="https://github.com/user-attachments/assets/0098f85d-7869-48ea-ba80-7977d1516e5b" /> </h4> </th>
-      <th width= 500> <h4> <img width="20" height="20" alt="0" src="https://github.com/user-attachments/assets/0098f85d-7869-48ea-ba80-7977d1516e5b" /> ʚ⊹₊ 𝐃𝐍𝐈 ₊⊹ɞ <img width="20" height="20" alt="0" src="https://github.com/user-attachments/assets/0098f85d-7869-48ea-ba80-7977d1516e5b" /> </h4> </th>
-      <th width= 500> <h4> <img width="20" height="20" alt="0" src="https://github.com/user-attachments/assets/0098f85d-7869-48ea-ba80-7977d1516e5b" /> ʚ⊹₊ 𝐋𝐈𝐍𝐊𝐒 ₊⊹ɞ <img width="20" height="20" alt="0" src="https://github.com/user-attachments/assets/0098f85d-7869-48ea-ba80-7977d1516e5b" /> </h4> </th>
+      <th width= 1000>  <h4> <img width="20" height="20" alt="0" src="https://github.com/user-attachments/assets/0098f85d-7869-48ea-ba80-7977d1516e5b" />ʚ⊹₊ 𝐌𝐄 ₊⊹ɞ <img width="20" height="20" alt="0" src="https://github.com/user-attachments/assets/0098f85d-7869-48ea-ba80-7977d1516e5b" /> </h4> </th>
+       <th width= 1000>  <h4> <img width="20" height="20" alt="0" src="https://github.com/user-attachments/assets/0098f85d-7869-48ea-ba80-7977d1516e5b" />ʚ⊹₊ 𝐁𝐘𝐈 ₊⊹ɞ <img width="20" height="20" alt="0" src="https://github.com/user-attachments/assets/0098f85d-7869-48ea-ba80-7977d1516e5b" /> </h4> </th>
+      <th width= 1000> <h4> <img width="20" height="20" alt="0" src="https://github.com/user-attachments/assets/0098f85d-7869-48ea-ba80-7977d1516e5b" /> ʚ⊹₊ 𝐃𝐍𝐈 ₊⊹ɞ <img width="20" height="20" alt="0" src="https://github.com/user-attachments/assets/0098f85d-7869-48ea-ba80-7977d1516e5b" /> </h4> </th>
+      <th width= 1000> <h4> <img width="20" height="20" alt="0" src="https://github.com/user-attachments/assets/0098f85d-7869-48ea-ba80-7977d1516e5b" /> ʚ⊹₊ 𝐋𝐈𝐍𝐊𝐒 ₊⊹ɞ <img width="20" height="20" alt="0" src="https://github.com/user-attachments/assets/0098f85d-7869-48ea-ba80-7977d1516e5b" /> </h4> </th>
     </tr>
     <tr>
       <td> ⟢ You can call me Kohi/Deaf <br> ⟢ They/them • ENFP • Pan <br> ⟢ I'm a multiple shippers/fandoms <br> ⟢ Main fandoms: BSD, CRK/OB, MLP, ALNST, Kuroshitsuji,etc. <br> ⟢ I love true crimes, psychology, drawings, <del> my octp, my octp, my octp </del> <br> ⟢ Oh did I mention that I love my octp? </td>
