@@ -22,7 +22,7 @@
       <th width= 500>  <h4> <img width="20" height="20" alt="0" src="https://github.com/user-attachments/assets/0098f85d-7869-48ea-ba80-7977d1516e5b" />ʚ⊹₊ 𝐌𝐄 ₊⊹ɞ <img width="20" height="20" alt="0" src="https://github.com/user-attachments/assets/0098f85d-7869-48ea-ba80-7977d1516e5b" /> </h4> </th>
        <th width= 500>  <h4> <img width="20" height="20" alt="0" src="https://github.com/user-attachments/assets/0098f85d-7869-48ea-ba80-7977d1516e5b" />ʚ⊹₊ 𝐁𝐘𝐈 ₊⊹ɞ <img width="20" height="20" alt="0" src="https://github.com/user-attachments/assets/0098f85d-7869-48ea-ba80-7977d1516e5b" /> </h4> </th>
       <th width= 500> <h4> <img width="20" height="20" alt="0" src="https://github.com/user-attachments/assets/0098f85d-7869-48ea-ba80-7977d1516e5b" /> ʚ⊹₊ 𝐃𝐍𝐈 ₊⊹ɞ <img width="20" height="20" alt="0" src="https://github.com/user-attachments/assets/0098f85d-7869-48ea-ba80-7977d1516e5b" /> </h4> </th>
-      <th width= 500> <h4> <img width="20" height="20" alt="0" src="https://github.com/user-attachments/assets/0098f85d-7869-48ea-ba80-7977d1516e5b" /> ʚ⊹₊ 𝐋𝐈𝐍𝐊𝐒 ₊⊹ɞ <img width="20" height="20" alt="0" src="https://github.com/user-attachments/assets/0098f85d-7869-48ea-ba80-7977d1516e5b" /> </h4> </th>
+      <th width= 500> <h4> <img width="20" height="20" alt="0" src="https://github.com/user-attachments/assets/0098f85d-7869-48ea-ba80-7977d1516e5b" /> ʚ⊹₊ 𝐋𝐈𝐍𝐊 ₊⊹ɞ <img width="20" height="20" alt="0" src="https://github.com/user-attachments/assets/0098f85d-7869-48ea-ba80-7977d1516e5b" /> </h4> </th>
     </tr>
     <tr>
       <td> ⟢ You can call me Kohi/Deaf <br> ⟢ They/them • ENFP • Pan <br> ⟢ I'm a multiple shippers/fandoms <br> ⟢ Main fandoms: BSD, CRK/OB, MLP, ALNST, Kuroshitsuji,etc. <br> ⟢ I love true crimes, psychology, drawings, <del> my octp, my octp, my octp </del> <br> ⟢ Oh did I mention that I love my octp? </td>
@@ -32,6 +32,7 @@
         ⟢ Offense others and then says "It's just a joke/prank" <br>
         ⟢ Trauma = cool <br>
         ⟢ Racist, Sexist <br>
+        ⟢ Proshipper <br>
         ⟢ Loli/shotacon <br>
         ⟢ Copy others' skins and claim it's yours <br>
         ⟢ Asuming everyone is gay/lesbian
