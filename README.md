@@ -34,8 +34,8 @@
         ⟢ Offense others and then says "It's just a joke/prank" <br>
         ⟢ Trauma = cool <br>
         ⟢ Racist, Sexist <br>
-        ⟢ Loli/shotacon
-        ⟢ Copycat
+        ⟢ Loli/shotacon <br>
+        ⟢ Copy others' skins and claim it's yours
       </td>
       <td>
         ⟢ Sign my <a href="https://bdf647.atabook.org/" target=_blank> 新book </a> <br> 
